@@ -23,7 +23,7 @@ The performance of the original script "Analysis for All Stocks" for 2018 took 0
         
     The original VBA script is the initial code and there are always better ways to write a code. It’s expected to refactor your original code before you deploy it           in a production environment.
 
-
+### Refactored code execution time for All Stocks Analysis
 
 ![VBA_Challenge_2017.png](https://github.com/bariir/stock-analysis/tree/main/resources/VBA_Challenge_2017.png?raw=true)
 
