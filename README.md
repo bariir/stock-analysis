@@ -14,7 +14,7 @@ The performance of the original script "Analysis for All Stocks" for 2018 took 0
 
 ## Summary
 
-- In a summary statement, address the following questions
+### In a summary statement, address the following questions
     1.	What are the advantages or disadvantages of refactoring code?
  In my view, the advantages of refactoring a code are things. First it makes a clean code and second, it optimizes the code. I really don't see any disadvantages based on refactoring code. The only thing I can think of is if the original code is not functionally working. In this case, there is no reason to refactor but fix the code first.
         
