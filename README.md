@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock-analysis
 
 ## Overview of Project
 In this stock analysis project, I am helping Steve to analyze a stock portfolio for his parents. This analysis includes entire stock market dataset from the last couple of years (2017 and 2018) stocks for multiple tickers.
