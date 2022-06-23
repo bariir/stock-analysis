@@ -22,3 +22,9 @@ The performance of the original script "Analysis for All Stocks" for 2018 took 0
  2.	How do these pros and cons apply to refactoring the original VBA script?
         
     The original VBA script is the initial code and there are always better ways to write a code. It’s expected to refactor your original code before you deploy it           in a production environment.
+
+
+
+![VBA_Challenge_2017.png](https://github.com/bariir/stock-analysis/tree/main/resources/VBA_Challenge_2017.png?raw=true)
+
+![VBA_Challenge_2018.png](https://github.com/bariir/stock-analysis/tree/main/resources/VBA_Challenge_2018.png?raw=true)
